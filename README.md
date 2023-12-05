@@ -1,12 +1,6 @@
-<div align="center">
-<img src="https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/367431410_1968411946865615_4884030105008121815_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeGszkklZ-6CG9I3baQ0OZnqinrxZKpc7u2KevFkqlzu7SY06Mz-zaHkgu4Y0x3jK3ftEvxy4ECurqn3cTGYFVZB&_nc_ohc=Mh7MfL-sX6kAX8dtHIm&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfBBI2zuGdVAN0nOBSwgUjZe_PSjQwoqifA-VHOvAnELWw&oe=65717439" align="center" style="width: 100%" />
-</div>  
-  
 
-# <div align="center"> SHAYKOT SELIM</div>  
   
-
-<br/>  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaykotselim&bg_color=000000&color=faf7fd&line=1ce3d6&point=e1e200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## My Skill Set  
