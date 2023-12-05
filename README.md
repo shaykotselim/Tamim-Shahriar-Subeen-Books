@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHAYKOT SELIM</h1>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaykotselim&bg_color=0d0d0d&color=f7f7f7&line=f5f4f4&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaykotselim&label=Profile%20views&color=0e75b6&style=flat" alt="shaykotselim" /> </p>
 
 <h3 align="left">Connect with me:</h3>
