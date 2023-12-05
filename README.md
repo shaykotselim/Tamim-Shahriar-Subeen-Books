@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHAYKOT SELIM</h1>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaykotselim&bg_color=000000&color=faf7fd&line=1ce3d6&point=e1e200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaykotselim&bg_color=0d0d0d&color=faf9fa&line=f2f2f2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaykotselim&label=Profile%20views&color=0e75b6&style=flat" alt="shaykotselim" /> </p>
 
 <h3 align="left">Connect with me:</h3>
