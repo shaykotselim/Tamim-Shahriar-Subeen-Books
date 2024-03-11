@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>;
 
 using namespace std;
-//double add(double x , double y);
+    //double add(double x , double y);
 int main (){
     double a, b , c;
     a = 2.7;

@@ -14,7 +14,7 @@ int main (){
 
     cout << fixed << setprecision(4);
 
-    c = add(a, b);
+   c = add(a, b);
     cout << c;
 
 return 0;
